@@ -1,0 +1,1 @@
+GN BIOTECH PRIVATE LIMITED website starter. Upload all files to any static host such as GitHub Pages, Cloudflare Pages or Netlify. Replace placeholders with verified phone number, WhatsApp, product catalogue, certifications, facility photos and company details before publishing.
